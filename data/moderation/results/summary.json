@@ -1,0 +1,68 @@
+{
+ "jev-1.14.0": {
+  "ok": 60,
+  "n": 60,
+  "p50_ms": 375.8340415661223,
+  "p95_ms": 509.79291705880314,
+  "parallel_wall_s": 4.581828374997713,
+  "parallel_errors": 0,
+  "in_tokens": 2919.15,
+  "out_tokens": 88,
+  "effort": ""
+ },
+ "gpt-5.4-nano": {
+  "ok": 60,
+  "n": 60,
+  "p50_ms": 964.4488334888592,
+  "p95_ms": 1278.792499913834,
+  "parallel_wall_s": 10.28995116695296,
+  "parallel_errors": 0,
+  "in_tokens": 1367.45,
+  "out_tokens": 32,
+  "effort": "none"
+ },
+ "gpt-5.4-mini": {
+  "ok": 60,
+  "n": 60,
+  "p50_ms": 1471.065999532584,
+  "p95_ms": 1938.642333028838,
+  "parallel_wall_s": 13.135998915997334,
+  "parallel_errors": 0,
+  "in_tokens": 1367.45,
+  "out_tokens": 32,
+  "effort": "none"
+ },
+ "gpt-5.5": {
+  "ok": 60,
+  "n": 60,
+  "p50_ms": 1184.684104518965,
+  "p95_ms": 1608.5599579382688,
+  "parallel_wall_s": 11.63360829197336,
+  "parallel_errors": 0,
+  "in_tokens": 1367.45,
+  "out_tokens": 32,
+  "effort": "none"
+ },
+ "rekognition": {
+  "ok": 60,
+  "n": 60,
+  "p50_ms": 409.2352915322408,
+  "p95_ms": 590.6104169553146,
+  "parallel_wall_s": 5.720103624975309,
+  "parallel_errors": 0,
+  "in_tokens": 0,
+  "out_tokens": 0,
+  "effort": ""
+ },
+ "omni-moderation": {
+  "ok": 60,
+  "n": 60,
+  "p50_ms": 591.3442079909146,
+  "p95_ms": 791.7883340269327,
+  "parallel_wall_s": 5.615857583004981,
+  "parallel_errors": 0,
+  "in_tokens": 0,
+  "out_tokens": 0,
+  "effort": ""
+ }
+}
